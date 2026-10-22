@@ -1,2 +1,3 @@
-# Ashton-Standridge.github.io
-Portfolio site: Python automation, scraping, data cleanup, PDF to Excel, and Godot 4
+# Ashton S. portfolio site
+
+A single self-contained page (images are inlined) that showcases sample Python projects and Roomlock. Live at https://ashton-standridge.github.io/
